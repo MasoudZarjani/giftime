@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: /*?q=*
+Disallow: /*?utm*
+Disallow: /feed
+Disallow: /en/
+
+# Sitemap
+Sitemap: https://giftime.ir/sitemap.xml
